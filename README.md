@@ -1,3 +1,10 @@
+# About This Repo
+
+This repository distributes the binaries and documentation for my proprietary SystemVerilog-2023 parser.
+- The parser itself is closed-source.
+- Binaries are available under the Releases tab.
+- This repo is used for issues, feedback, and release notes.
+
 # What’s Included
 
 ## 1. SystemVerilog-2023 Parser (C++ CLI)
@@ -10,6 +17,7 @@
 - Designed as the backend engine for future elaboration, simulation, and waveform tooling.
 
 ## 2. Desktop GUI (Alpha)
+
 A lightweight front-end that manages .svproj workspaces and runs the parser without the command line.
 - Project explorer automatically discovers .sv / .v files under the project root.
 - GUI manages project creation, opening, and refreshing sources.
