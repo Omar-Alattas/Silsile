@@ -1,4 +1,4 @@
-# Sisile - Beta Release
+# Silsile - Beta Release
 
 This beta represents a major stabilization and capability jump from the last alpha.
 Across the parser, elaborator, and GUI, the focus of the past cycle was:
